@@ -1,0 +1,39 @@
+.grass {
+    background-color: lightgreen;
+  }
+  .fire {
+    background-color: lightcoral;
+  }
+  .water {
+    background-color: lightblue;
+  }
+  .bug {
+    background-color: lightgoldenrodyellow;
+  }
+  .normal {
+    background-color: lightsalmon;
+  }
+  .poison {
+    background-color: lightseagreen;
+  }
+  .electric {
+    background-color: lightskyblue;
+  }
+  .ground {
+    background-color: lightgoldenrodyellow;
+  }
+  .fairy {
+    background-color: lightgoldenrodyellow;
+  }
+  .fighting {
+    background-color: lightgoldenrodyellow;
+  }
+  .rock {
+    background-color: lightgoldenrodyellow;
+  }
+  .ghost {
+    background-color: lightgoldenrodyellow;
+  }
+  .psychic {
+    background-color: lightgoldenrodyellow;
+  }
